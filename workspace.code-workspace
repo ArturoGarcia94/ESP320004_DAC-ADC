@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ESP320004_DAC-ADC",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
